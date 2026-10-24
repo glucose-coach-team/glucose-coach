@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+faiss-cpu
+openai
+pydantic
+pandas
+numpy
+pyarrow
+beautifulsoup4
+pypdf
+gradio
+# 검색 평가 노트북에서만 필요
+sentence-transformers
