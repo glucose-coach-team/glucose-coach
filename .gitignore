@@ -1,0 +1,21 @@
+# 키·환경
+.env
+*.key
+secrets*
+
+# 파이썬
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 용량이 크거나 재배포하면 안 되는 데이터
+*.xlsx
+*.pkl
+*.pickle
+data/원본/
+data/이미지/
+docs_html/
+
+# 평가 결과 캐시
+평가/
+.DS_Store
